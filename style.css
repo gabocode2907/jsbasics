@@ -21,14 +21,24 @@
     padding-left: 15px;
     color: white;
 }
+.infooter{
+    width: 500px;
+    height: 20px;
+    padding-left: 15px;
+    color: white;
+
+}
 li {
     text-indent: -15px;
     color: white;
     font-size: 13px;
 }
-span{
-    margin-left: 15px;
+h4 {
+ margin-left: 15px;
     margin-top: 15px;
+}
+span{
+    
     color: slateblue;
 }
 
@@ -66,8 +76,9 @@ p{
 }
 
 .bottompane{
+    color: white;
     width: 970px;
-    height: 50px;
+    height: 60px;
     background-color: grey;
     border-radius: 10px;
     margin-top: 15px;
