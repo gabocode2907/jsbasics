@@ -24,6 +24,7 @@
 li {
     text-indent: -15px;
     color: white;
+    font-size: 13px;
 }
 span{
     margin-left: 15px;
@@ -61,6 +62,7 @@ h3{
 }
 p{
     color: white;
+    font-size: 13px;
 }
 
 .bottompane{
